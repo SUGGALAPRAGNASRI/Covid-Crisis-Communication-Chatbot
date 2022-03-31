@@ -1,0 +1,31 @@
+coronavirus,coronavirus,corona,virus check,virus,COVID-19,COVID,coronavirus,corona-virus,carona-virus,Carona,Korona,Korona-virus,COVID19
+landmark,empire state building,emprire state,empire state
+landmark,grand central
+landmark,times square,times sqaure,time square,time sqaure
+location,singapore
+location,America,usa,united states
+location,sri lanka
+location,South Africa
+location,australia
+location,bangladesh
+location,berlin
+location,canada
+location,china
+location,denmark
+location,endland
+location,india,bharath,baarath
+location,italy
+location,nepal
+location,New zeland
+location,pakistan
+location,poland
+location,russia
+phone,US Phone pattern,/(\d{3})-(\d{3})-(\d{4})/
+reply,no,not now,not at this time,nope,i think not,dont think so,don't think so,definitely not
+reply,yes,yep,you betcha,you bet,yes,yeah,why not,sure,please,ok,let's do it,go for it,definitely
+school_type,preschool
+school_type,college
+school_type,grade school
+school_type,high school
+school_type,middle school
+zip_code,@sys-number,/(\b|\s)\d{5}(\b|\s)/
