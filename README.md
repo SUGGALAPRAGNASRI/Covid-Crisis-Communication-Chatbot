@@ -10,3 +10,7 @@
 ## Entity and Intents 
 •An entity represents a term or object that provides context for an intent 
 •The concept of intents is used to help your virtual assistant understand your users natural language input
+
+## demo
+
+Please find the chatbot demo here -> https://bit.ly/MyCovidChatbot
